@@ -127,19 +127,5 @@ This project demonstrates a real-world AI assistant system combining:
 * Database management
 * API integration
 * AI interaction
-* Cross-platform UI development
+* Cross-platform UI development.
 
----
-
-## 👨‍💻 Author
-
-**Hafiz Zubair**
-
----
-
-## ⭐ Future Improvements
-
-* Real authentication system (JWT)
-* Cloud database integration
-* Mobile app optimization
-* Conversation memory enhancement
