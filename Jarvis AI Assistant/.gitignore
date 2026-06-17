@@ -1,0 +1,7 @@
+build/
+.dart_tool/
+*.log
+*.lock
+node_modules/
+.env
+__pycache__/
